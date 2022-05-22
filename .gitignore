@@ -1,0 +1,5 @@
+.terraform
+*.tfvars
+*.tfstate
+*.tfstate.backup
+localstack_providers_override.tf
